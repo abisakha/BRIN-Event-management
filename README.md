@@ -3,42 +3,6 @@
 ```bash
 BRIN-Event-management/
 │
-├── app/
-│   ├── Http/
-│   │   └── Controllers/
-│   │       ├── Admin/
-│   │       │   ├── DashboardController.php
-│   │       │   ├── EventController.php
-│   │       │   ├── UserController.php
-│   │       │   └── ReportController.php
-│   │       │
-│   │       └── User/
-│   │           ├── HomeController.php
-│   │           ├── EventController.php
-│   │           └── ProfileController.php
-│   │
-│   └── Models/
-│       ├── User.php
-│       ├── Event.php
-│       └── Category.php
-│
-├── database/
-│   ├── migrations/
-│   ├── factories/
-│   └── seeders/
-│
-├── public/
-│   └── assets/
-│       ├── user/
-│       │   ├── css/
-│       │   ├── js/
-│       │   └── images/
-│       │
-│       └── admin/
-│           ├── css/
-│           ├── js/
-│           └── images/
-│
 ├── resources/
 │   └── views/
 │       │
